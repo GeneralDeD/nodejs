@@ -1,0 +1,116 @@
+@media (max-width: 550px) {
+
+    h1 {
+        font-size: 30px !important;
+    }
+
+    h2 {
+        font-size: 27px !important;
+    }
+
+    h3 {
+        font-size: 23px !important;
+    }
+
+    h4 {
+        font-size: 18px !important;
+    }
+
+    h5 {
+        font-size: 16px !important;
+    }
+
+    p {
+        font-size: 14px !important;
+        margin: 8px 0 !important;
+    }
+
+    .wsm1 {
+        width: 100% !important;
+    }
+
+    .aside, .rside {
+        width: 100% !important;
+    }
+
+    .form__input {
+        width: 100%;
+        flex-wrap: wrap;
+        font-size: 14px !important;
+    }
+
+    label {
+        width: 100%;
+        padding: 10px 0 !important;
+        border-right: 1px solid #ECECEC !important;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+
+    input {
+        width: 100%;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        
+        padding: 10px 10px !important;
+    }
+
+    input::placeholder {
+        text-align: center;
+    }
+
+    .green__btn {
+        padding: 5px;
+    }
+
+    .programer {
+        width: 200px;
+    }
+
+    .block {
+        width: 100% !important;
+    }
+
+    .part {
+        padding: 6px 14px
+    }
+
+    .line {
+        height: 165px;
+    }
+
+    .study__block {
+        width: 100%;
+    }
+
+    .lesson__block {
+        width: 100%;
+    }
+
+    .cost h1 {
+        font-size: 40px !important;
+    }
+
+    .check__course {
+        text-align: center;
+    }
+
+    .node_logo {
+        width: 100px;
+    }
+
+    .all__items:last-child {
+        padding: 10px 70px !important;
+    }
+
+    .phone {
+        width: 168% !important;
+    }
+
+
+
+
+    .teacher {
+        width: 200px !important;
+    }
+}

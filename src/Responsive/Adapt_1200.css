@@ -1,0 +1,59 @@
+@media (max-width: 1200px) {
+    
+    h1 {
+        margin-bottom: 30px !important;
+    }
+
+    p {
+        margin: 10px 0 !important;
+    }
+
+    .asife {
+        width: 53%;
+    }
+
+    .rside {
+        width: 47%;
+    }
+    
+    .block {
+        padding: 50px 40px 10px;
+    }
+
+    .part {
+        padding: 15px 25px;
+    }
+
+    .study__text h4 {
+        margin-top: 0px;
+    }
+
+    .study__text p {
+        margin-top: 5px !important;
+    }
+
+    .lesson__block {
+        width: 24%;
+        padding: 24px;
+    }
+
+    .stydy_img {
+        width: 280px;
+    }
+
+    .st_pr_img {
+        width: 460px;
+    }
+
+    .aft_st_img {
+        width: 400px;
+    }
+
+    .fs_70 {
+        font-size: 60px !important;
+    }
+
+    .phone {
+        width: 137% !important;
+    }
+}

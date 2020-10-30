@@ -1,0 +1,93 @@
+@media (max-width: 770px) {
+
+    .section {
+        margin: 10px 0;
+    }
+
+    .w1 {
+        width: 100% !important;
+        text-align: center !important;
+        margin: 0 !important;
+    }
+
+    .aside, .rside {
+        width: 90% !important;
+    }
+    
+    .blocks {
+        margin: 20px 0;
+        justify-content: center !important;
+    }
+
+    .block {
+        width: 47% !important;
+        margin: 0 7px 20px;
+    }
+
+    .parts {
+        padding: 7px 0;
+    }
+
+    .part {
+        padding: 6px 11px;
+    }
+
+    .study__block {
+        width: 40%;
+    }
+
+    .study__block2 {
+        width: 100%;
+    }
+
+    .lesson__blocks {
+        flex-wrap: wrap;
+
+    }
+
+    .lesson__block {
+        width: 48%;
+        margin-bottom: 20px;
+    }
+
+    .cost_img {
+        margin: 0 auto !important;
+    }
+
+    .stydy_img {
+        width: 60%;
+    }
+
+    .cost {
+        width: 100%;
+    }
+
+    .nastav {
+        width: 100% !important;
+    }
+
+    .avito_logo, .node_logo {
+        width: 180px;
+    }
+
+    .node_logo {
+        margin-right: 0 !important;
+    }
+
+    .fs_70 {
+        font-size: 50px !important;
+    }
+
+    .foot__head {
+        justify-content: center !important;
+    }
+
+    .input-group {
+        margin-top: 10px !important;
+    }
+
+    .foot_foot {
+        margin-top: 10px !important;
+        margin-left: 20px;
+    }
+}

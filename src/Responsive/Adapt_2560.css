@@ -1,0 +1,121 @@
+@media(min-width: 1660px) and (max-width: 2560px) {
+    body {
+        background-size: 2560px;
+    }
+
+    .container {
+        max-width: 85% !important;
+        margin: 0 auto !important;
+        padding: 0 !important;
+    }
+
+    h1 {
+        font-size: 62px !important;
+    }
+
+    h2 {
+        font-size: 54px !important;
+    }
+
+    h3 {
+        font-size: 47px !important;
+    }
+    
+    h4 {
+        font-size: 35px !important;
+    }
+
+    h5 {
+        font-size: 26px !important;
+    }
+
+    a {
+        font-size: 24px !important;
+    }
+
+    p {
+        font-size: 24px !important;
+    }
+
+    .logo {
+        width: 341px;
+    }
+
+    .naw__down {
+        padding: 18px 15px !important;
+    }
+
+    .aside {
+        width: 54%;
+    }
+
+    .rside {
+        width: 45%;
+    }
+
+    .form__input, .green__btn, .all__items, .blue__btn  {
+        font-size: 24px !important;
+    }
+
+    .head__p, .head__h1 {
+        color: grey !important;
+    }
+
+    .gr__chevr {
+        margin-top: 120px;
+        font-size: 22px;
+    }
+
+    .block {
+        width: 31%;
+        padding: 20px !important;
+    }
+
+    .part {
+        padding: 15px 34px;
+    }
+
+    .study__start {
+        width: 48%;
+    }
+    
+    .study__end {
+        width: 32%;
+    }
+
+    .line {
+        height: 130px;
+    }
+
+    .programer {
+        width: 400px;
+    }
+
+    .car_rt {
+        margin-left: 60px !important;
+    }
+
+    
+    .phone {
+        width: 89% !important;
+    }
+
+    .visa_logo {
+        width: 26%;
+    }
+
+    .paypal_logo{
+        width: 30%;
+    }
+
+
+
+    .green__link {
+        font-size: inherit !important;
+    }
+
+    .footer {
+        padding: 30px 0 !important;
+    }
+
+}

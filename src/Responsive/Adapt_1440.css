@@ -1,0 +1,76 @@
+@media(min-width: 1367px) and (max-width: 1440px) {
+    body {
+        background-size: 1440px;
+    }
+
+    h1 {
+        font-size: 45px !important;
+    }
+
+    h2 {
+        font-size: 38px !important;
+    }
+
+    h3 {
+        font-size: 33px !important;
+    }
+    
+    h4 {
+        font-size: 27px !important;
+    }
+
+    h5 {
+        font-size: 22px !important;
+    }
+
+    a {
+        font-size: 18px !important;
+    }
+
+    p {
+        font-size: 18px !important;
+    }
+
+    .logo {
+        width: 286px;
+    }
+
+    .naw__down {
+        padding: 15px 8px !important;
+    }
+
+    .aside {
+        width: 54%;
+    }
+
+    .rside {
+        width: 45%;
+    }
+
+    .block {
+        width: 31%;
+        padding: 20px 10px !important;
+    }
+
+    .part {
+        padding: 15px 26px;
+    }
+
+    .study__start {
+        width: 48%;
+    }
+    
+    .study__end {
+        width: 32%;
+    }
+
+    .line {
+        height: 130px;
+    }
+
+    .green__link {
+        font-size: inherit !important;
+    }
+
+
+}
